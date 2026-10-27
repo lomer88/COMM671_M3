@@ -17,3 +17,6 @@ I already have linkedin profile
 - WEB DEVELOPED FUNDAMENTALS
 
 I am learning new things in this course.
+
+I uploaded a picture of myself working in my computer
+
