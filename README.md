@@ -5,5 +5,4 @@
 
 It will include formatted text (bold, italic, bulleted items, etc.)
 
-My user Github account, _lomer88,_ is a composition of my ‹ins›full name‹/ins›
-
+My user Github account, _lomer88,_ is a composition of my <ins>full name</ins>
