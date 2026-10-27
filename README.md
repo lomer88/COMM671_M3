@@ -6,3 +6,5 @@
 It will include formatted text (bold, italic, bulleted items, etc.)
 
 My user GitHub account, _lomer88,_ is a composition of my full name. 
+
+[My-linkedin-profile](https://www.linkedin.com/in/edgar-lopez-319138434/)
